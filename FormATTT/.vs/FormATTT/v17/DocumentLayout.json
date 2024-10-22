@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LinhTinh\\FormATTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|d:\\linhtinh\\formattt\\formattt\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\thaythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\thaythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\thaythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\thaythe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\hoanvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\hoanvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\hoanvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\hoanvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|D:\\LinhTinh\\FormATTT\\formattt\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{916F127F-FF08-4420-B253-FE5C4C759F59}|FormATTT\\FormATTT.csproj|solutionrelative:formattt\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hill.cs",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hill.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Hill.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hill.cs",
+              "RelativeToolTip": "FormATTT\\Hill.cs",
+              "ViewState": "AQIAAAcCAAAAAAAAAAAMwN4BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:06:42.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hill.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hill.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Hill.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hill.cs [Design]",
+              "RelativeToolTip": "FormATTT\\Hill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:06:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playfair.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Playfair.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Playfair.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Playfair.cs [Design]",
+              "RelativeToolTip": "FormATTT\\Playfair.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:12:46.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thaythe.cs",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Thaythe.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Thaythe.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Thaythe.cs",
+              "RelativeToolTip": "FormATTT\\Thaythe.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thaythe.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Thaythe.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Thaythe.cs",
+              "ToolTip": "E:\\LinhTinh\\FormATTT\\FormATTT\\Thaythe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Vigenere.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Vigenere.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Vigenere.cs",
+              "RelativeToolTip": "FormATTT\\Vigenere.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAswH4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:12:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Form1.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Form1.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Form1.cs [Design]",
+              "RelativeToolTip": "FormATTT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:12:46.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hoanvi.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hoanvi.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Hoanvi.cs",
+              "ToolTip": "E:\\LinhTinh\\FormATTT\\FormATTT\\Hoanvi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vigenere.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Vigenere.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Vigenere.cs",
+              "ToolTip": "E:\\LinhTinh\\FormATTT\\FormATTT\\Vigenere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hoanvi.cs",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hoanvi.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Hoanvi.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Hoanvi.cs",
+              "RelativeToolTip": "FormATTT\\Hoanvi.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAYwB0BAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Affine.cs",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Affine.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Affine.cs",
+              "ToolTip": "D:\\LinhTinh\\FormATTT\\FormATTT\\Affine.cs",
+              "RelativeToolTip": "FormATTT\\Affine.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAANYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Affine.cs [Design]",
+              "DocumentMoniker": "D:\\LinhTinh\\FormATTT\\FormATTT\\Affine.cs",
+              "RelativeDocumentMoniker": "FormATTT\\Affine.cs",
+              "ToolTip": "E:\\LinhTinh\\FormATTT\\FormATTT\\Affine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-19T05:12:46.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
