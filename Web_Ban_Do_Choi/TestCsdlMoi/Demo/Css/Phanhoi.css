@@ -1,0 +1,49 @@
+#maincontent-phanhoi form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin-top: 20px; */
+}
+
+#maincontent-phanhoi table {
+    width: 100%;
+    border-collapse: collapse;
+    /* margin-top: 10px; */
+}
+
+#maincontent-phanhoi table, #maincontent-phanhoi th, #maincontent-phanhoi td {
+    border: 1px solid #ddd;
+}
+
+#maincontent-phanhoi th, #maincontent-phanhoi td {
+    padding: 10px;
+    text-align: center;
+}
+
+#maincontent-phanhoi caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#maincontent-phanhoi textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#maincontent-phanhoi input[type="reset"],
+#maincontent-phanhoi input[type="submit"] {
+    padding: 10px;
+    background-color: #4caf50; /* Màu nền nút Reset và Gửi */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#maincontent-phanhoi input[type="reset"]:hover,
+#maincontent-phanhoi input[type="submit"]:hover {
+    background-color: #45a049; /* Màu khi hover */
+}

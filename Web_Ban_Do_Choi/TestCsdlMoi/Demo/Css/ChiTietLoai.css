@@ -1,0 +1,36 @@
+#main-content-ctl {
+    padding: 20px; /* Tùy chỉnh khoảng cách padding theo nhu cầu của bạn */
+}
+
+#main-content-ctl table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Tùy chỉnh khoảng cách giữa table và các phần tử khác */
+}
+
+#main-content-ctl table caption {
+    font-size: 1.2em; /* Tùy chỉnh kích thước font cho caption */
+    font-weight: bold;
+    margin-bottom: 10px; /* Tùy chỉnh khoảng cách giữa caption và nội dung bảng */
+}
+
+#main-content-ctl table td {
+    padding: 8px; /* Tùy chỉnh khoảng cách padding cho cell trong bảng */
+}
+
+#main-content-ctl form {
+    margin-top: 20px; /* Tùy chỉnh khoảng cách giữa form và các phần tử khác */
+}
+
+#main-content-ctl input[type="submit"] {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#main-content-ctl input[type="submit"]:hover {
+    background-color: #45a049;
+}

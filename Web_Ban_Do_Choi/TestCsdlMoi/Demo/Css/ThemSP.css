@@ -1,0 +1,76 @@
+#main-content-themsp {
+    padding: 20px; /* Khoảng cách từ nội dung đến viền */
+    border: 1px solid #ddd; /* Viền */
+    border-radius: 5px; /* Góc bo tròn */
+    margin-top: 20px; /* Khoảng cách từ phần trên xuống */
+}
+
+#main-content-themsp table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#main-content-themsp table, #main-content-themsp th, #main-content-themsp td {
+    border: 1px solid #ddd;
+}
+
+#main-content-themsp th, #main-content-themsp td {
+    padding: 10px;
+    text-align: left;
+}
+
+#main-content-themsp caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#main-content-themsp form {
+    margin-top: 20px; /* Khoảng cách giữa bảng và form */
+}
+
+#main-content-themsp textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#main-content-themsp input[type="text"],
+#main-content-themsp input[type="number"],
+#main-content-themsp input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#main-content-themsp input[type="submit"],
+#main-content-themsp input[type="reset"] {
+    padding: 10px;
+    background-color: #4caf50; /* Màu nút Submit */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#main-content-themsp input[type="submit"]:hover,
+#main-content-themsp input[type="reset"]:hover {
+    background-color: #45a049; /* Màu khi hover */
+}
+
+#main-content-themsp select {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.thumbnail {
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}

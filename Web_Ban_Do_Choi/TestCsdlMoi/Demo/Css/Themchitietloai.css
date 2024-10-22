@@ -1,0 +1,79 @@
+#main-content-them {
+    padding: 20px; /* Thêm padding cho phần nội dung chính */
+}
+
+.thumbnail {
+    background-color: #fff; /* Nền trắng cho phần nội dung */
+    padding: 20px;
+    border-radius: 10px; /* Góc tròn */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Viền */
+}
+
+#formthem {
+    width: 60%; /* Điều chỉnh chiều rộng của form */
+    margin: 0 auto; /* Canh giữa form */
+}
+
+table {
+    width: 100%;
+}
+
+caption {
+    text-align: left; /* Căn lề trái cho tiêu đề */
+    font-size: 1.5em; /* Kích thước chữ tiêu đề */
+    margin-bottom: 10px; /* Khoảng cách với các phần khác */
+}
+
+label {
+    color: #ff0000; /* Màu đỏ cho thông báo lỗi */
+    font-weight: bold;
+}
+
+td {
+    padding: 10px; /* Thêm padding cho các ô */
+}
+
+select,
+input[type="text"] {
+    width: 100%; /* Điều chỉnh chiều rộng của input và select */
+    padding: 8px; /* Thêm padding cho input và select */
+    box-sizing: border-box; /* Để padding không làm tăng kích thước của phần tử */
+}
+
+input[type="submit"],
+input[type="reset"] {
+    background-color: #4caf50; /* Màu xanh lá cây cho nút */
+    color: #fff; /* Màu trắng cho chữ trên nút */
+    padding: 10px;
+    border: none;
+    border-radius: 5px; /* Góc tròn cho nút */
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color: #45a049; 
+}
+#left-menu-them {
+    width: 250px;
+    height: 100%;
+    background-color: #75ffff; 
+    color: #ffffff; 
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#left-menu-them h3 {
+    margin-bottom: 10px;
+    position: relative;
+    padding: 10px; /* Khoảng cách giữa các h3 */
+    transition: background-color 0.3s; /* Thêm hiệu ứng chuyển động */
+}
+
+#left-menu-them h3:hover {
+    background-color: #265c74; /* Màu xanh đậm khi hover */
+    cursor: pointer; /* Biến con trỏ thành bàn tay khi hover */
+}

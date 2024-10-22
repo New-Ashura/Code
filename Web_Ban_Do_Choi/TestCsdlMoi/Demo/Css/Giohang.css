@@ -1,0 +1,83 @@
+/* Các quy tắc CSS cho table chi tiết sản phẩm trong giỏ hàng */
+#oder table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#oder table, #oder th, #oder td {
+    border: 1px solid #ddd; /* Màu và độ dày của border */
+}
+
+#oder th, #oder td {
+    padding: 8px; /* Độ dày của đường padding bên trong cell */
+    text-align: left;
+}
+
+#oder th {
+    background-color: #f2f2f2; /* Màu nền của header */
+}
+#thongbao {
+    margin-top: 50px; /* điều chỉnh khoảng cách từ phía trên */
+    padding: 20px; /* điều chỉnh khoảng cách xung quanh nội dung */
+    text-align: center; /* căn giữa văn bản */
+    background-color: #f8d7da; /* màu nền cho thông báo */
+    border: 1px solid #f5c6cb; /* viền đỏ nhẹ */
+    border-radius: 5px; /* bo tròn góc */
+}
+/* CSS cho button "Cập nhật" */
+#capnhat {
+    background-color: #4CAF50; /* Màu nền */
+    color: white; /* Màu chữ */
+    border: none; /* Bỏ viền */
+    padding: 10px 20px; /* Kích thước nút */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; /* Góc bo tròn */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển động màu nền */
+}
+
+#capnhat:hover {
+    background-color: #45a049; /* Màu nền khi di chuột qua */
+}
+
+/* CSS cho button "Xóa" */
+#xoa {
+    background-color: #ff3333; /* Màu nền */
+    color: white; /* Màu chữ */
+    border: none; /* Bỏ viền */
+    padding: 10px 20px; /* Kích thước nút */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; /* Góc bo tròn */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển động màu nền */
+}
+
+#xoa:hover {
+    background-color: #cc0000; /* Màu nền khi di chuột qua */
+}
+#chotdon {
+    background-color: #008CBA; /* Màu nền */
+    color: white; /* Màu chữ */
+    border: none; /* Bỏ viền */
+    padding: 15px 30px; /* Kích thước nút */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px; /* Góc bo tròn */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển động màu nền */
+}
+
+#chotdon:hover {
+    background-color: #0077A3; /* Màu nền khi di chuột qua */
+}

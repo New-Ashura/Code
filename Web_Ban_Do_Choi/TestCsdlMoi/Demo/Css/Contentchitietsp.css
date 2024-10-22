@@ -1,0 +1,102 @@
+#main-content {
+    margin-top: 20px; /* Gắn khoảng trắng ở trên nếu cần */
+}
+
+/* Sử dụng Bootstrap grid classes để đặt kích thước cột */
+#main-content > div {
+    /* Thêm padding nếu cần thiết */
+    padding: 15px;
+}
+
+#main-content img {
+    max-width: 100%;
+    height: auto;
+   
+    margin: 0 auto; /* Canh giữa ảnh trong div */
+}
+#anh{
+    border-right: 1px solid #ccc;
+}
+
+#main-content form {
+    margin-bottom: 10px; /* Gắn khoảng trắng dưới biểu mẫu */
+}
+#mota {
+    width: 100%;
+    border-top: 1px solid rgb(238, 228, 228);
+    border-bottom: 1px solid rgb(217, 204, 204);
+}
+
+#mota p {
+    font-size: 16px;
+}
+
+#chitiet{
+   width: 50%;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+#themgiohang {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #428bca;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    margin-top: 5px; /* Dịch nút xuống dưới 5px */
+}
+#cmttext {
+    
+    width: 50%; 
+    padding: 5px; 
+    height: 70px;
+    margin: 5px;
+}
+#commentLabel{
+    font-size: 18px;
+    font-weight: bold;
+}
+#mota .span{
+    font-size: 18px;
+    border: 1px solid black;
+}
+#send {
+   
+    background-color: #428bca; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 5px;
+    height: 35px;
+    width: 60px;
+}
+
+#send:hover {
+    
+    background-color: #3071a9; /* Màu nền khi hover */
+}
+
+#noidungcmt{
+    margin-top: 10px;
+    
+   
+}
+
+
+/* #themgiohang::after {
+    content: '\1F6D2'; 
+    font-family: 'Segoe UI Symbol'; 
+    font-size: 20px;
+    margin-left: 5px; 
+} */
+.sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+    }

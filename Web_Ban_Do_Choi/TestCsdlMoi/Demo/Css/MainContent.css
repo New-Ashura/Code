@@ -1,0 +1,53 @@
+/* Maincontent.css */
+
+
+#chiasp .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#chiasp .col-md-4 {
+    flex: 0 0 calc(33.333% - 20px);
+    margin-bottom: 20px;
+}
+
+#chiasp .thumbnail {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+#chiasp .thumbnail .caption h4 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#chiasp img {
+    max-height: 70%;
+    width: auto;
+    margin-bottom: auto;
+}
+body{
+    background-color: rgb(243, 253, 255);
+}
+#main-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+
+.carousel-indicators li {
+   
+    border: 1px solid #919191; 
+}
+
+
+.carousel-indicators .active {
+    background-color: #a9a9a9; 
+}
+#spdaban{
+    float: right;
+}

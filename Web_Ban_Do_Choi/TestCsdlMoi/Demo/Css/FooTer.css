@@ -1,0 +1,10 @@
+.footer {
+    background-color: #e0efff; 
+    padding: 20px; /* Khoảng cách giữa nội dung và mép của footer */
+    text-align: center; /* Căn giữa nội dung trong footer */
+    position: relative; /* Hoặc fixed nếu bạn muốn nó cố định ở dưới cùng */
+    bottom: 0; /* Nếu sử dụng position: fixed; */
+    width: 100%; /* Độ rộng 100% để nó chiếm toàn bộ chiều rộng của trang */
+    clear: both; /* Đảm bảo rằng footer không chồng lên các phần khác của trang */
+    padding-top: 50px;  /* Tùy chỉnh giá trị dựa trên chiều cao của navbar */
+}

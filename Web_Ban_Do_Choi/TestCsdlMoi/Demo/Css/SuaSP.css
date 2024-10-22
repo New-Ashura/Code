@@ -1,0 +1,30 @@
+/* Trong file CSS của bạn */
+
+#main-content {
+    background-color: #fff; /* Màu nền trắng */
+    border: 1px solid #ccc; /* Viền xám */
+    padding: 20px; /* Khoảng cách nội dung từ mép */
+}
+
+.thumbnail {
+    padding: 20px; /* Khoảng cách nội dung của thumbnail */
+}
+
+#anh img {
+    max-width: 100%; /* Ảnh trong phần anh có chiều rộng tối đa 100% */
+    height: auto; /* Chiều cao tự động tính theo tỷ lệ */
+}
+
+#chitiet textarea,
+#chitiet input {
+    width: 100%; /* Input và textarea chiếm toàn bộ chiều rộng */
+    margin-bottom: 10px; /* Khoảng cách dưới giữa các input và textarea */
+}
+
+#mota span {
+    font-weight: bold; /* Chữ mô tả đậm */
+}
+
+.button-group button {
+    margin-right: 10px; /* Khoảng cách phải giữa các nút */
+}

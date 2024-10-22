@@ -1,0 +1,7 @@
+#thongtintt tr {
+    margin-bottom: 10px; /* Khoảng cách dưới mỗi dòng là 10px */
+}
+
+#thongtintt td {
+    padding-bottom: 10px; /* Khoảng cách dưới mỗi ô là 10px */
+}

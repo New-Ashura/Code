@@ -1,0 +1,39 @@
+/* CSS cho form */
+#frm_chitiet {
+    margin: 20px; /* Khoảng cách với các phần tử khác */
+}
+
+/* CSS cho bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #ddd; /* Đường viền cho bảng */
+}
+
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+td {
+    padding: 10px; /* Khoảng cách giữa nội dung và đường viền trong ô */
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Kiểu CSS cho radio button */
+#chon {
+    margin-right: 10px; /* Khoảng cách giữa radio button và văn bản */
+}

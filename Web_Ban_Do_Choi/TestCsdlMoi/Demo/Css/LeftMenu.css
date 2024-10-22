@@ -1,0 +1,84 @@
+#left-menu {
+        width: 250px;
+        height: 100%;
+        background-color: #37a9c9;
+        color: #a9268205;
+        left: 0;
+        top: 0;
+        overflow-x: hidden;
+        padding-top: 20px;
+        border-radius: 10px; /* Góc tròn */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Viền */
+    }
+
+    .menu {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .menu-item {
+        margin-bottom: 10px;
+        position: relative;
+    }
+
+    .submenu {
+        display: none;
+        margin-left: 20px;
+        font-size: 18px;
+    }
+
+    .submenu-item {
+        padding: 8px;
+        text-decoration: none;
+        color: #09166e;
+        display: block;
+        transition: background-color 1s; /* Thêm hiệu ứng chuyển động */
+    }
+
+    .submenu-item:hover {
+        background-color: #e2f7f2;
+        color: #ced7e4; /* Thêm màu cho chữ khi rê chuột */
+    }
+
+    .menu-item:hover .submenu {
+        display: block;
+    }
+
+    .glyphicon-chevron-down {
+        float: right;
+        margin-top: 8px;
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    #left-menu .menu-item a {
+        font-size: 16px;
+        color: #000; /* Màu chữ */
+        text-decoration: none; /* Loại bỏ gạch chân (underline) */
+        display: block; /* Hiển thị là khối (block) để chiếm toàn bộ chiều rộng của .menu-item */
+        padding: 10px; /* Khoảng cách nội dung từ viền của thẻ <a> */
+        transition: background-color 0.3s; /* Thêm hiệu ứng chuyển động khi hover */
+    }
+    
+    #left-menu .menu-item a:hover {
+        
+        background-color: #e2f7f2; /* Màu nền khi hover */
+        color: #ced7e4; /* Màu chữ khi hover */
+    }
+    
+    #left-menu .submenu-item a {
+        
+        color: #333; /* Màu chữ */
+        text-decoration: none; /* Loại bỏ gạch chân (underline) */
+        display: block; /* Hiển thị là khối (block) để chiếm toàn bộ chiều rộng của .submenu-item */
+        padding: 8px; /* Khoảng cách nội dung từ viền của thẻ <a> */
+    }
+    
+    #left-menu .submenu-item a:hover {
+        
+        background-color: #f0f0f0; /* Màu nền khi hover */
+        color: #555; /* Màu chữ khi hover */
+    }
+    

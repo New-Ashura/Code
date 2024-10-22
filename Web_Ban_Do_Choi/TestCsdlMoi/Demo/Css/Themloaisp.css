@@ -1,0 +1,62 @@
+#main-content {
+    background-color: #f5f5f5; /* Màu nền */
+    padding: 10px; /* Khoảng cách từ nội dung đến viền */
+    border: 1px solid #ddd; /* Viền */
+    border-radius: 5px; /* Góc bo tròn */
+    
+}
+
+#main-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#main-content table, #main-content th, #main-content td {
+    border: 1px solid #ddd;
+}
+
+#main-content th, #main-content td {
+    padding: 10px;
+    text-align: left;
+}
+
+#main-content caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#main-content form {
+    margin-top: 20px; /* Khoảng cách giữa bảng và form */
+}
+
+#main-content input[type="text"],
+#main-content input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#main-content input[type="submit"],
+#main-content input[type="reset"] {
+    padding: 10px;
+    background-color: #4caf50; /* Màu nút Submit */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#main-content input[type="submit"]:hover,
+#main-content input[type="reset"]:hover {
+    background-color: #45a049; /* Màu khi hover */
+}
+
+#main-content select {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}

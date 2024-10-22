@@ -1,0 +1,71 @@
+#hoadon {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#hoadon table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#hoadon table, #hoadon th, #hoadon td {
+    border: 1px solid #ddd;
+}
+
+#hoadon th, #hoadon td {
+    padding: 10px;
+    text-align: left;
+}
+
+#hoadon caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#thanks {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e6f7ff;
+    border: 1px solid #66b2ff;
+    border-radius: 5px;
+}
+
+#thanks p {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #0099cc;
+}
+
+#hoadon img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 10px;
+}
+#oder .ttsp {
+    border: 1px solid #ddd; /* Màu và độ dày của border */
+    padding: 8px; /* Độ dày của đường padding bên trong div */
+    display: flex; /* Sử dụng flexbox để căn chỉnh các phần tử con */
+    justify-content: space-between; /* Cách nhau các phần tử con */
+    background-color: #f9f9f9; /* Màu nền */
+    border-radius: 5px; /* Độ cong của góc */
+}
+
+#oder .ttsp img {
+    max-width: 100px; /* Định kích thước tối đa cho ảnh */
+}
+
+#oder .ttsp .tensp,
+#oder .ttsp .giasp {
+    flex-grow: 1; /* Phần tử sẽ mở rộng để điền hết khoảng trống */
+    padding: 0 8px; /* Độ dày của đường padding cho tên và giá sản phẩm */
+    /* Các thuộc tính khác nếu cần */
+}
+
+
+
+
